@@ -1,16 +1,23 @@
 # home_smart
 
-A new Flutter project.
+![Screenshot_20250317-154251](https://github.com/user-attachments/assets/258b8b92-0ccf-4660-b06d-8299f455d546)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20250317-154603](https://github.com/user-attachments/assets/51d7ccfd-9d3a-49fe-98d2-9f07ccbefc36)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot_20250317-154326](https://github.com/user-attachments/assets/079c473e-7271-4b25-8a64-cfc3789ef67f)
+
+
+
+![Screenshot_20250317-154234](https://github.com/user-attachments/assets/4054798f-dd19-4c55-87e0-2dc764137383)
+
+
+
+![Screenshot_20250317-154455](https://github.com/user-attachments/assets/f5249577-1d8e-41f5-965d-3f1fbf66c5a1)
+
+
+![Screenshot_20250317-154445](https://github.com/user-attachments/assets/bb8781f0-feba-45ae-9e6c-398a6cf6cdb5)
